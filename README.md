@@ -1,201 +1,196 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071426,50:123B5D,100:00B4D8&text=Amine%20Hizi&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Backend%20%7C%20AI%20%7C%20Optimization&descAlignY=60&descSize=16" width="100%" />
+# AMINE HIZI
 
-  <a href="mailto:hizi.amin11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-00B4D8?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/amine-hizi-07755432a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/aminHizi">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-171717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+### Software Engineer | Backend Development | AI & Intelligent Systems
+
+Building systems that connect software engineering, real-time data, and intelligent applications.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amine-hizi-07755432a)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hizi.amin11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-aminHizi-181717?style=for-the-badge&logo=github)](https://github.com/aminHizi)
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-I'm a Computer Engineering student at **ENIS (National Engineering School of Sfax)**, interested in backend engineering, distributed systems, artificial intelligence, and mathematical optimization.
+I'm a Computer Engineering student interested in backend engineering, distributed systems, and applied AI.
 
-I enjoy understanding how systems work beyond their interfaces: network protocols, backend architectures, asynchronous communication, and algorithms.
+I enjoy building practical systems: from real-time monitoring platforms and payment integrations to document-based AI applications and event-driven architectures.
 
-My experience includes developing backend applications with **Java and Spring Boot**, building TCP-based servers with **Go**, implementing event-driven systems with **Kafka**, and working on applied machine learning projects.
-
-Currently exploring:
-- Backend engineering and distributed systems.
-- Mathematical optimization and intelligent decision-making.
-- AI, machine learning, and reinforcement learning.
-- Network protocols and systems programming.
-
-```python
-class Engineer:
-    def __init__(self):
-        self.name = "Amine Hizi"
-        self.education = "Computer Engineering — ENIS"
-        self.interests = [
-            "Backend Engineering",
-            "Distributed Systems",
-            "Artificial Intelligence",
-            "Mathematical Optimization",
-            "Systems Programming"
-        ]
-        self.languages = ["C++", "Go", "Java", "Python", "JavaScript"]
-```
+- Backend development with **Node.js, Go, and Java**
+- Frontend development with **React and TypeScript**
+- Working with **MongoDB, MySQL, and REST APIs**
+- Exploring **machine learning, mathematical optimization, and intelligent systems**
 
 ---
 
-## 🧰 Tech Stack
+## Featured Projects
+
+### 01. PrintSight — Real-Time 3D Printer Monitoring
+
+**Node.js · Express · MongoDB · React · AI Integration · Real-Time Systems**
+
+A real-time supervision platform developed during my three-month internship at [Fab43](https://www.linkedin.com/company/fab43/).
+
+The platform addresses a practical problem: detecting 3D printing failures early instead of discovering wasted prints hours later.
+
+**What I developed:**
+- Real-time dashboard for monitoring printer telemetry.
+- Integration of AI-based defect detections and confidence scores.
+- Live camera footage displayed alongside printer data.
+- Backend architecture for authentication, printer access, and sensitive operations.
+- Secure server-side handling of print-stop commands and printer access codes.
+- Extensible architecture designed to accommodate additional printer brands and detection models.
+
+The AI detection module was developed in parallel by my teammate [Mohamed Hamzaoui](https://www.linkedin.com/in/mohamed-hamzaoui4002/), who implemented three detection models running on a Raspberry Pi.
+
+---
+
+### 02. BlogPosting — Full-Stack Blogging Platform
+
+**MongoDB · Express.js · React · Node.js · Stripe**
+
+A full-stack blogging platform with user authentication, content management, and payment integration.
+
+- User authentication and protected routes.
+- Create, publish, and manage blog posts.
+- Backend REST API built with Express and Node.js.
+- MongoDB data persistence.
+- Stripe payment integration.
+- Frontend built with React.
+
+---
+
+### 03. Charh — AI-Powered PDF Learning Platform
+
+**Python · JavaScript · AI · Embeddings · Semantic Search**
+
+A document-based learning platform that allows students to upload PDF course materials and interact with their content.
+
+- PDF ingestion and text extraction.
+- Document chunking and embedding generation.
+- Semantic retrieval of relevant document sections.
+- AI-generated explanations grounded in uploaded material.
+- Question-answering interface for asking follow-up questions about the document.
+
+The goal is to make course materials easier to understand while keeping answers connected to the original PDF.
+
+---
+
+### 04. CASNN — Heart Disease Prediction
+
+**Python · PyTorch · Machine Learning · Spiking Neural Networks**
+
+An academic research project focused on heart disease prediction and categorization using an optimized Cell-Attention-based Spiking Neural Network.
+
+- Data preprocessing and feature selection.
+- Implementation of a Cell-Attention-based SNN.
+- Model training and evaluation.
+- Exploration of efficient learning approaches for medical monitoring.
+
+---
+
+### 05. Metro Timetable Synchronization — Research Project
+
+**Python · Mathematical Optimization · Intelligent Transportation**
+
+An ongoing research direction focused on improving metro-to-metro transfers in Greater Tunis.
+
+The idea is to coordinate train timetables at interchange stations to reduce passenger waiting times when connecting metro services do not arrive at suitable times.
+
+Research objectives:
+- Model transfer waiting times between metro lines.
+- Analyze timetable coordination opportunities.
+- Explore optimization methods under operational constraints.
+- Evaluate the impact of synchronization on passenger waiting time.
+
+*Proposed research project — not yet a deployed transportation system.*
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-### Programming Languages
+### Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,go,java,python,js&theme=dark" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql&theme=dark" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Infrastructure
+### AI & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,kafka&theme=dark" />
-
-### AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" />
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-## 💻 Selected Projects
+## Experience
 
-### 🏦 Banking Account Management System
+**Software Development Intern — Fab43**
 
-**Java · Spring Boot · REST APIs**
+Three-month internship focused on the architecture and development of PrintSight, a real-time 3D printer monitoring platform.
 
-- Developed a backend application for managing banking operations.
-- Designed REST APIs for account creation, transactions, and balance management.
-- Structured application logic around core banking operations.
+**Technical Intern — Tunisie Telecom**
 
-### ⚡ Real-Time Queue System — tn2050
+Worked with internal telecom monitoring and analysis tools, inspected network activity, and prepared technical reports based on system logs and network behavior.
 
-**Apache Kafka · Event-Driven Architecture**
+**International Volunteer — AIESEC Cairo, Egypt**
 
-- Implemented asynchronous communication using Kafka producers and consumers.
-- Designed message flows between services.
-- Explored event-driven processing and distributed system concepts.
-
-### 🌐 Custom HTTP / FTP Server
-
-**Go · TCP Networking**
-
-- Implemented a TCP-based server handling HTTP requests and FTP file transfers.
-- Developed request parsing, routing logic, and file handling.
-- Explored low-level networking and server-side communication.
-
-### 🧠 Medical Monitoring with CASNN
-
-**Python · PyTorch · Machine Learning**
-
-- Developed a heart-condition risk prediction system using a Cell-Attention-based Spiking Neural Network.
-- Implemented preprocessing, feature selection, and model inference.
-- Explored lightweight learning approaches for limited-data environments.
-
-### 🎓 Campus Net — E-Learning Platform
-
-**MERN Stack · Scrum**
-
-- Developed a web platform for course management and enrollment.
-- Implemented user authentication and application functionality.
-- Followed a sprint-based development workflow.
-
-### 🏋️ Gym Management Systems
-
-**MongoDB · Express · React · Node.js**
-
-- Built and maintained multiple full-stack applications.
-- Developed authentication, user management, and gym operation modules.
-- Automated repetitive daily operations, reducing manual processing time by approximately one hour per day.
+Participated in an international volunteering program, teaching English and collaborating in a multicultural environment.
 
 ---
 
-## 🔬 Research Interests
+## Education
 
-- **Mathematical Optimization:** scheduling, resource allocation, and optimization under constraints.
-- **Intelligent Transportation:** exploring metro-to-metro timetable synchronization in Greater Tunis to reduce passenger transfer waiting times.
-- **Reinforcement Learning:** world models, environment prediction, and decision-making.
-- **Applied AI:** efficient learning methods and real-world machine learning applications.
+**Computer Engineering — ENIS**  
+2024 – Present
 
----
-
-## 💼 Experience & Volunteering
-
-**Tunisie Telecom — Technical Internship**  
-Kasserine, Tunisia · July – August 2025
-
-- Inspected network activity using internal monitoring and analysis tools.
-- Generated technical reports based on network behavior and system logs.
-
-**AIESEC — International Volunteering**  
-Cairo, Egypt · August – September 2025
-
-- Participated in an international multicultural program involving participants from more than 10 countries.
-- Delivered English teaching sessions and contributed to daily organizational activities.
+**Preparatory Engineering Studies — IPEIT**  
+2022 – 2024
 
 ---
 
-## 🎓 Education & Certifications
+## Certifications
 
-**ENIS — National Engineering School of Sfax**  
-Computer Engineering · 2024 – Present
-
-**IPEIT — Preparatory Institute for Engineering Studies of Tunis**  
-Mathematics and Physics · 2022 – 2024
-
-**Certifications**
-- Cisco Advanced C++ Programming
+- Cisco — Advanced C++ Programming
 - Scrum Fundamentals Certified
 
 ---
 
-## 🌍 Languages
-
-- Arabic — Native
-- French — Fluent
-- English — Fluent
-- German — Beginner
-
----
-
-## 📊 GitHub Statistics
-
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aminHizi&show_icons=true&hide_border=true&bg_color=071426&title_color=00B4D8&icon_color=00B4D8&text_color=E6F1FF" />
+### Always learning. Always building.
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminHizi&layout=compact&hide_border=true&bg_color=071426&title_color=00B4D8&text_color=E6F1FF" />
-
-  <br/>
-
-  <img src="https://streak-stats.demolab.com?user=aminHizi&hide_border=true&background=071426&ring=00B4D8&fire=00B4D8&currStreakLabel=E6F1FF&sideLabels=E6F1FF&dates=8BA3B8" />
-
-</div>
-
----
-
-<div align="center">
-
-  **Building systems. Understanding algorithms. Solving real problems.**
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:00B4D8,100:071426" width="100%" />
+*Interested in backend engineering, distributed systems, and intelligent applications.*
 
 </div>
