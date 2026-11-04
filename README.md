@@ -45,19 +45,11 @@ Computer Engineering student interested in building reliable software systems, b
 
 <img align="right" width="120" src="https://img.shields.io/badge/REAL--TIME-MONITORING-0D1117?style=for-the-badge&logo=datadog&logoColor=36BCF7" />
 
-A real-time supervision platform developed during my three-month internship at [Fab43](https://www.linkedin.com/company/fab43/).
+A real-time supervision platform developed during my three-month internship at [Fab43]
 
 The goal: detect 3D printing failures early instead of discovering wasted prints hours later.
 
-**My contributions:**
-- Designed and developed the backend architecture.
-- Built a live dashboard for printer telemetry.
-- Integrated AI detection results and confidence scores.
-- Delivered live camera footage to the frontend.
-- Handled authentication, printer access codes, and print-stop commands securely on the server.
-- Designed the architecture to support additional printer brands and detection models.
 
-The AI detection module was developed separately by my teammate [Mohamed Hamzaoui](https://www.linkedin.com/in/mohamed-hamzaoui4002/), who implemented three detection models running on a Raspberry Pi.
 
 <br clear="right"/>
 
@@ -148,41 +140,6 @@ An ongoing research direction focused on improving metro-to-metro transfers in G
 
 ---
 
-## `04` — Experience
-
-**Software Development Intern · Fab43**
-
-Three-month internship developing PrintSight, a real-time 3D printer monitoring platform.
-
-**Technical Intern · Tunisie Telecom**
-
-Worked with internal telecom monitoring and analysis tools, inspected network activity, and prepared technical reports based on system logs and network behavior.
-
-**International Volunteer · AIESEC Cairo, Egypt**
-
-Participated in an international volunteering program, teaching English and collaborating in a multicultural environment.
-
----
-
-## `05` — Education & Certifications
-
-| Education | Period |
-|:--|:--|
-| Computer Engineering — ENIS | 2024–Present |
-| Preparatory Engineering Studies — IPEIT | 2022–2024 |
-
-**Certifications**
-- Cisco — Advanced C++ Programming
-- Scrum Fundamentals Certified
-
----
-
-## `06` — Languages
-
-- Arabic — Native
-- French — Fluent
-- English — Fluent
-- German — Beginner
 
 <div align="center">
 
