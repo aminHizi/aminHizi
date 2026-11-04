@@ -1,196 +1,193 @@
 
 <div align="center">
 
-# AMINE HIZI
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B5D,100:0077B6&height=220&section=header&text=Amine%20Hizi&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI&descAlignY=58&descSize=18&animation=fadeIn" />
 
-### Software Engineer | Backend Development | AI & Intelligent Systems
-
-Building systems that connect software engineering, real-time data, and intelligent applications.
+<a href="https://linkedin.com/in/amine-hizi-07755432a">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:hizi.amin11@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/aminHizi">
+<img src="https://img.shields.io/badge/GitHub-aminHizi-181717?style=for-the-badge&logo=github" />
+</a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amine-hizi-07755432a)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hizi.amin11@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-aminHizi-181717?style=for-the-badge&logo=github)](https://github.com/aminHizi)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+real-time+systems;Backend+%26+Full-Stack+Development;Exploring+AI+%26+Intelligent+Systems;Turning+ideas+into+working+software" />
 
 </div>
 
 ---
 
-## About Me
+## `01` — About Me
 
-I'm a Computer Engineering student interested in backend engineering, distributed systems, and applied AI.
-
-I enjoy building practical systems: from real-time monitoring platforms and payment integrations to document-based AI applications and event-driven architectures.
+Computer Engineering student interested in building reliable software systems, backend architectures, and practical AI applications.
 
 - Backend development with **Node.js, Go, and Java**
 - Frontend development with **React and TypeScript**
-- Working with **MongoDB, MySQL, and REST APIs**
-- Exploring **machine learning, mathematical optimization, and intelligent systems**
+- Database design and API development
+- Real-time applications and system integration
+- Machine learning and mathematical optimization
 
 ---
 
-## Featured Projects
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B6,100:0D1117&height=2&section=header&width=100%" />
+</div>
 
-### 01. PrintSight — Real-Time 3D Printer Monitoring
+## `02` — Featured Projects
 
-**Node.js · Express · MongoDB · React · AI Integration · Real-Time Systems**
+### <img src="https://img.shields.io/badge/01-PrintSight-0077B6?style=flat-square" /> PrintSight — Real-Time 3D Printer Monitoring
+
+**Node.js · Express · MongoDB · React · Real-Time Systems**
+
+<img align="right" width="120" src="https://img.shields.io/badge/REAL--TIME-MONITORING-0D1117?style=for-the-badge&logo=datadog&logoColor=36BCF7" />
 
 A real-time supervision platform developed during my three-month internship at [Fab43](https://www.linkedin.com/company/fab43/).
 
-The platform addresses a practical problem: detecting 3D printing failures early instead of discovering wasted prints hours later.
+The goal: detect 3D printing failures early instead of discovering wasted prints hours later.
 
-**What I developed:**
-- Real-time dashboard for monitoring printer telemetry.
-- Integration of AI-based defect detections and confidence scores.
-- Live camera footage displayed alongside printer data.
-- Backend architecture for authentication, printer access, and sensitive operations.
-- Secure server-side handling of print-stop commands and printer access codes.
-- Extensible architecture designed to accommodate additional printer brands and detection models.
+**My contributions:**
+- Designed and developed the backend architecture.
+- Built a live dashboard for printer telemetry.
+- Integrated AI detection results and confidence scores.
+- Delivered live camera footage to the frontend.
+- Handled authentication, printer access codes, and print-stop commands securely on the server.
+- Designed the architecture to support additional printer brands and detection models.
 
-The AI detection module was developed in parallel by my teammate [Mohamed Hamzaoui](https://www.linkedin.com/in/mohamed-hamzaoui4002/), who implemented three detection models running on a Raspberry Pi.
+The AI detection module was developed separately by my teammate [Mohamed Hamzaoui](https://www.linkedin.com/in/mohamed-hamzaoui4002/), who implemented three detection models running on a Raspberry Pi.
+
+<br clear="right"/>
 
 ---
 
-### 02. BlogPosting — Full-Stack Blogging Platform
+### <img src="https://img.shields.io/badge/02-BlogPosting-0077B6?style=flat-square" /> BlogPosting — Full-Stack Blogging Platform
 
 **MongoDB · Express.js · React · Node.js · Stripe**
 
-A full-stack blogging platform with user authentication, content management, and payment integration.
+A full-stack blogging platform with content management and payment integration.
 
-- User authentication and protected routes.
-- Create, publish, and manage blog posts.
-- Backend REST API built with Express and Node.js.
-- MongoDB data persistence.
+- Authentication and protected routes.
+- Blog post creation and management.
+- REST API with Node.js and Express.
+- MongoDB persistence.
 - Stripe payment integration.
-- Frontend built with React.
+- React frontend.
 
 ---
 
-### 03. Charh — AI-Powered PDF Learning Platform
+### <img src="https://img.shields.io/badge/03-Charh-0077B6?style=flat-square" /> Charh — AI-Powered PDF Learning Platform
 
-**Python · JavaScript · AI · Embeddings · Semantic Search**
+**Python · JavaScript · Embeddings · Semantic Search**
 
-A document-based learning platform that allows students to upload PDF course materials and interact with their content.
+A document-based learning platform that allows students to upload course PDFs, receive explanations, and ask questions about their material.
 
 - PDF ingestion and text extraction.
 - Document chunking and embedding generation.
 - Semantic retrieval of relevant document sections.
 - AI-generated explanations grounded in uploaded material.
-- Question-answering interface for asking follow-up questions about the document.
-
-The goal is to make course materials easier to understand while keeping answers connected to the original PDF.
+- Interactive question-answering interface.
 
 ---
 
-### 04. CASNN — Heart Disease Prediction
+### <img src="https://img.shields.io/badge/04-CASNN-0077B6?style=flat-square" /> Heart Disease Prediction
 
 **Python · PyTorch · Machine Learning · Spiking Neural Networks**
 
-An academic research project focused on heart disease prediction and categorization using an optimized Cell-Attention-based Spiking Neural Network.
+An academic research project exploring heart disease prediction using an optimized Cell-Attention-based Spiking Neural Network.
 
 - Data preprocessing and feature selection.
-- Implementation of a Cell-Attention-based SNN.
+- Cell-Attention-based SNN implementation.
 - Model training and evaluation.
 - Exploration of efficient learning approaches for medical monitoring.
 
 ---
 
-### 05. Metro Timetable Synchronization — Research Project
+### <img src="https://img.shields.io/badge/05-Research-0077B6?style=flat-square" /> Metro Timetable Synchronization
 
 **Python · Mathematical Optimization · Intelligent Transportation**
 
 An ongoing research direction focused on improving metro-to-metro transfers in Greater Tunis.
 
-The idea is to coordinate train timetables at interchange stations to reduce passenger waiting times when connecting metro services do not arrive at suitable times.
+- Modeling transfer waiting times between metro lines.
+- Exploring timetable coordination opportunities.
+- Investigating optimization methods under operational constraints.
+- Evaluating potential reductions in passenger waiting time.
 
-Research objectives:
-- Model transfer waiting times between metro lines.
-- Analyze timetable coordination opportunities.
-- Explore optimization methods under operational constraints.
-- Evaluate the impact of synchronization on passenger waiting time.
-
-*Proposed research project — not yet a deployed transportation system.*
+*Proposed research project — not yet a deployed system.*
 
 ---
 
-## Tech Stack
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B6,100:0D1117&height=2&section=header" />
+</div>
+
+## `03` — Tech Stack
 
 <div align="center">
 
-### Languages
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,ts,go,java,cpp&theme=dark" />
 
-### Backend & Databases
+**Backend & Databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,kafka&theme=dark" />
 
-### Frontend
+**Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
 
-### AI & Tools
+**AI & Tools**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=pytorch,git,github,linux,docker&theme=dark" />
 
 </div>
 
 ---
 
-## Experience
+## `04` — Experience
 
-**Software Development Intern — Fab43**
+**Software Development Intern · Fab43**
 
-Three-month internship focused on the architecture and development of PrintSight, a real-time 3D printer monitoring platform.
+Three-month internship developing PrintSight, a real-time 3D printer monitoring platform.
 
-**Technical Intern — Tunisie Telecom**
+**Technical Intern · Tunisie Telecom**
 
 Worked with internal telecom monitoring and analysis tools, inspected network activity, and prepared technical reports based on system logs and network behavior.
 
-**International Volunteer — AIESEC Cairo, Egypt**
+**International Volunteer · AIESEC Cairo, Egypt**
 
 Participated in an international volunteering program, teaching English and collaborating in a multicultural environment.
 
 ---
 
-## Education
+## `05` — Education & Certifications
 
-**Computer Engineering — ENIS**  
-2024 – Present
+| Education | Period |
+|:--|:--|
+| Computer Engineering — ENIS | 2024–Present |
+| Preparatory Engineering Studies — IPEIT | 2022–2024 |
 
-**Preparatory Engineering Studies — IPEIT**  
-2022 – 2024
-
----
-
-## Certifications
-
+**Certifications**
 - Cisco — Advanced C++ Programming
 - Scrum Fundamentals Certified
 
 ---
 
+## `06` — Languages
+
+- Arabic — Native
+- French — Fluent
+- English — Fluent
+- German — Beginner
+
 <div align="center">
 
-### Always learning. Always building.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:123B5D,100:0D1117&height=120&section=footer&animation=fadeIn" />
 
-*Interested in backend engineering, distributed systems, and intelligent applications.*
+**Thanks for visiting!**
 
 </div>
